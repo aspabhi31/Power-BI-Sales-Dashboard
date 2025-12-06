@@ -33,8 +33,7 @@ The **Impact & Insights Dashboard** provides an intuitive way for users to explo
 - Developed an **end-to-end analytical dashboard**, from requirements gathering to publishing  
 - Cleaned and modeled data to improve reporting accuracy  
 - Designed KPIs and visuals that reduced manual reporting time  
-- Implemented automated refresh schedules and optimized performance  
-- Applied **Agile iteration cycles** based on stakeholder feedback  
+- Implemented automated refresh schedules and optimized performance   
 
 
 
